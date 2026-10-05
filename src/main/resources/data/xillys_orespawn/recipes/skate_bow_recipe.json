@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    "3 5",
+    " 78"
+  ],
+  "key": {
+    "1": {
+      "item": "xillys_orespawn:crystal_sticks"
+    },
+    "2": {
+      "item": "minecraft:string"
+    },
+    "3": {
+      "item": "xillys_orespawn:crystal_sticks"
+    },
+    "5": {
+      "item": "minecraft:string"
+    },
+    "7": {
+      "item": "xillys_orespawn:crystal_sticks"
+    },
+    "8": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "xillys_orespawn:skate_bow",
+    "count": 1
+  }
+}

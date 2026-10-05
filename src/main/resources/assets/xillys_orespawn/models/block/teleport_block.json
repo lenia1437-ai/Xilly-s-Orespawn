@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xillys_orespawn:blocks/blockteleport",
+    "up": "xillys_orespawn:blocks/blockteleport",
+    "north": "xillys_orespawn:blocks/blockteleport",
+    "east": "xillys_orespawn:blocks/blockteleport",
+    "south": "xillys_orespawn:blocks/blockteleport",
+    "west": "xillys_orespawn:blocks/blockteleport",
+    "particle": "xillys_orespawn:blocks/blockteleport"
+  }
+}

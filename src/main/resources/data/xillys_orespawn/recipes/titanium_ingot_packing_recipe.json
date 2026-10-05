@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "xillys_orespawn:titanium_nugget"
+    },
+    "1": {
+      "item": "xillys_orespawn:titanium_nugget"
+    },
+    "2": {
+      "item": "xillys_orespawn:titanium_nugget"
+    },
+    "3": {
+      "item": "xillys_orespawn:titanium_nugget"
+    },
+    "4": {
+      "item": "xillys_orespawn:titanium_nugget"
+    },
+    "5": {
+      "item": "xillys_orespawn:titanium_nugget"
+    },
+    "6": {
+      "item": "xillys_orespawn:titanium_nugget"
+    },
+    "7": {
+      "item": "xillys_orespawn:titanium_nugget"
+    },
+    "8": {
+      "item": "xillys_orespawn:titanium_nugget"
+    }
+  },
+  "result": {
+    "item": "xillys_orespawn:titanium_ingot",
+    "count": 1
+  }
+}

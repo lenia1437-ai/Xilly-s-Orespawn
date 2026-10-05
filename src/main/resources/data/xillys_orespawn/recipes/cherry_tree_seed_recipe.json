@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "xillys_orespawn:cherries"
+    }
+  ],
+  "result": {
+    "item": "xillys_orespawn:cherrytree_seed",
+    "count": 1
+  }
+}

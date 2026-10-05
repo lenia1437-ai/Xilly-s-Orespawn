@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xillys_orespawn:blocks/orelurkingterror",
+    "up": "xillys_orespawn:blocks/orelurkingterror",
+    "north": "xillys_orespawn:blocks/orelurkingterror",
+    "east": "xillys_orespawn:blocks/orelurkingterror",
+    "south": "xillys_orespawn:blocks/orelurkingterror",
+    "west": "xillys_orespawn:blocks/orelurkingterror",
+    "particle": "xillys_orespawn:blocks/orelurkingterror"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xillys_orespawn:blocks/oremantis",
+    "up": "xillys_orespawn:blocks/oremantis",
+    "north": "xillys_orespawn:blocks/oremantis",
+    "east": "xillys_orespawn:blocks/oremantis",
+    "south": "xillys_orespawn:blocks/oremantis",
+    "west": "xillys_orespawn:blocks/oremantis",
+    "particle": "xillys_orespawn:blocks/oremantis"
+  }
+}

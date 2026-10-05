@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xillys_orespawn:blocks/orechicken",
+    "up": "xillys_orespawn:blocks/orechicken",
+    "north": "xillys_orespawn:blocks/orechicken",
+    "east": "xillys_orespawn:blocks/orechicken",
+    "south": "xillys_orespawn:blocks/orechicken",
+    "west": "xillys_orespawn:blocks/orechicken",
+    "particle": "xillys_orespawn:blocks/orechicken"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xillys_orespawn:blocks/orewitherboss",
+    "up": "xillys_orespawn:blocks/orewitherboss",
+    "north": "xillys_orespawn:blocks/orewitherboss",
+    "east": "xillys_orespawn:blocks/orewitherboss",
+    "south": "xillys_orespawn:blocks/orewitherboss",
+    "west": "xillys_orespawn:blocks/orewitherboss",
+    "particle": "xillys_orespawn:blocks/orewitherboss"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:chest",
+  "pools": [{
+    "rolls": {"min": 5, "max": 11},
+    "entries": [
+      {"type":"minecraft:item","name":"xillys_orespawn:bacon","weight":20,"functions":[{"function":"minecraft:set_count","count":{"min":6,"max":12}}]},
+      {"type":"minecraft:item","name":"xillys_orespawn:butter_candy","weight":20,"functions":[{"function":"minecraft:set_count","count":{"min":6,"max":12}}]},
+      {"type":"minecraft:item","name":"minecraft:emerald","weight":15,"functions":[{"function":"minecraft:set_count","count":{"min":2,"max":8}}]},
+      {"type":"minecraft:item","name":"xillys_orespawn:emerald_pickaxe","weight":15},
+      {"type":"minecraft:item","name":"xillys_orespawn:emerald_sword","weight":15},
+      {"type":"minecraft:item","name":"xillys_orespawn:amethyst","weight":15,"functions":[{"function":"minecraft:set_count","count":{"min":2,"max":8}}]},
+      {"type":"minecraft:item","name":"xillys_orespawn:ruby","weight":15,"functions":[{"function":"minecraft:set_count","count":{"min":2,"max":8}}]},
+      {"type":"minecraft:item","name":"xillys_orespawn:nightmare_sword","weight":5},
+      {"type":"minecraft:item","name":"xillys_orespawn:ultimate_sword","weight":3},
+      {"type":"minecraft:item","name":"xillys_orespawn:bee_spawn_egg","weight":8},
+      {"type":"minecraft:item","name":"xillys_orespawn:alien_spawn_egg","weight":8},
+      {"type":"minecraft:item","name":"xillys_orespawn:kyuubi_spawn_egg","weight":8}
+    ]
+  }]
+}

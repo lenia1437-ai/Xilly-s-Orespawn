@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "xillys_orespawn:crystalpink_ingot"
+    },
+    "1": {
+      "item": "xillys_orespawn:crystalpink_ingot"
+    },
+    "2": {
+      "item": "xillys_orespawn:crystalpink_ingot"
+    },
+    "3": {
+      "item": "xillys_orespawn:crystal_sticks"
+    },
+    "5": {
+      "item": "xillys_orespawn:crystal_sticks"
+    }
+  },
+  "result": {
+    "item": "xillys_orespawn:crystalpink_axe",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xillys_orespawn:blocks/orewitch",
+    "up": "xillys_orespawn:blocks/orewitch",
+    "north": "xillys_orespawn:blocks/orewitch",
+    "east": "xillys_orespawn:blocks/orewitch",
+    "south": "xillys_orespawn:blocks/orewitch",
+    "west": "xillys_orespawn:blocks/orewitch",
+    "particle": "xillys_orespawn:blocks/orewitch"
+  }
+}

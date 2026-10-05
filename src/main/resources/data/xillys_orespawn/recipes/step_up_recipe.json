@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:gunpowder"
+    },
+    "1": {
+      "tag": "forge:stone"
+    },
+    "3": {
+      "tag": "forge:stone"
+    },
+    "5": {
+      "tag": "forge:stone"
+    }
+  },
+  "result": {
+    "item": "xillys_orespawn:step_up",
+    "count": 8
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xillys_orespawn:blocks/orehammerhead",
+    "up": "xillys_orespawn:blocks/orehammerhead",
+    "north": "xillys_orespawn:blocks/orehammerhead",
+    "east": "xillys_orespawn:blocks/orehammerhead",
+    "south": "xillys_orespawn:blocks/orehammerhead",
+    "west": "xillys_orespawn:blocks/orehammerhead",
+    "particle": "xillys_orespawn:blocks/orehammerhead"
+  }
+}

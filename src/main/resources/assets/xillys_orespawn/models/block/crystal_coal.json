@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xillys_orespawn:blocks/crystalcoal",
+    "up": "xillys_orespawn:blocks/crystalcoal",
+    "north": "xillys_orespawn:blocks/crystalcoal",
+    "east": "xillys_orespawn:blocks/crystalcoal",
+    "south": "xillys_orespawn:blocks/crystalcoal",
+    "west": "xillys_orespawn:blocks/crystalcoal",
+    "particle": "xillys_orespawn:blocks/crystalcoal"
+  }
+}

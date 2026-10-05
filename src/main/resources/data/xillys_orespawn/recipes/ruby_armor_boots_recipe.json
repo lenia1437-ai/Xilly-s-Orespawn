@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "xillys_orespawn:ruby"
+    },
+    "2": {
+      "item": "xillys_orespawn:ruby"
+    },
+    "3": {
+      "item": "xillys_orespawn:ruby"
+    },
+    "5": {
+      "item": "xillys_orespawn:ruby"
+    }
+  },
+  "result": {
+    "item": "xillys_orespawn:ruby_armor_boots",
+    "count": 1
+  }
+}

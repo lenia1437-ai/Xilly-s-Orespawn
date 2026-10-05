@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "xillys_orespawn:molenoid_nose"
+    },
+    {
+      "item": "xillys_orespawn:seamonster_scale"
+    },
+    {
+      "item": "xillys_orespawn:moth_scale"
+    },
+    {
+      "item": "xillys_orespawn:basilisk_scale"
+    },
+    {
+      "item": "xillys_orespawn:nightmare_scale"
+    },
+    {
+      "item": "xillys_orespawn:emperor_scorpion_scale"
+    },
+    {
+      "item": "xillys_orespawn:jumpybug_scale"
+    }
+  ],
+  "result": {
+    "item": "xillys_orespawn:big_bertha_guard",
+    "count": 1
+  }
+}

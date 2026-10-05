@@ -1,0 +1,7 @@
+{"type":"minecraft:chest","pools":[{"rolls":{"min":4,"max":8},"entries":[
+  {"type":"minecraft:item","name":"minecraft:pumpkin_pie","weight":25,"functions":[{"function":"minecraft:set_count","count":{"min":2,"max":10}}]},
+  {"type":"minecraft:item","name":"minecraft:pumpkin_seeds","weight":25,"functions":[{"function":"minecraft:set_count","count":{"min":3,"max":16}}]},
+  {"type":"minecraft:item","name":"xillys_orespawn:magic_apple","weight":8},
+  {"type":"minecraft:item","name":"xillys_orespawn:crystal_apple","weight":4},
+  {"type":"minecraft:item","name":"xillys_orespawn:popcorn_buttered_salted","weight":12,"functions":[{"function":"minecraft:set_count","count":{"min":1,"max":5}}]}
+]}]}

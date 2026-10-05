@@ -1,0 +1,70 @@
+{
+  "_fv": 33,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "experience_helmet",
+    "enableBody": true,
+    "textureBody": "experience_chest",
+    "enableLeggings": true,
+    "textureLeggings": "experience_leggings",
+    "enableBoots": true,
+    "textureBoots": "experience_boots",
+    "onHelmetTick": {
+      "name": "OnItemEnchantArmorNoAdditionalTrigger"
+    },
+    "onBodyTick": {
+      "name": "OnItemEnchantArmorNoAdditionalTrigger"
+    },
+    "onLeggingsTick": {
+      "name": "OnItemEnchantArmorNoAdditionalTrigger"
+    },
+    "onBootsTick": {
+      "name": "OnItemEnchantArmorNoAdditionalTrigger"
+    },
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "experience_",
+    "helmetName": "Experience Armor Helmet",
+    "bodyName": "Experience Armor Body",
+    "leggingsName": "Experience Armor Leggings",
+    "bootsName": "Experience Armor Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 70,
+    "damageValueHelmet": 5,
+    "damageValueBody": 9,
+    "damageValueLeggings": 7,
+    "damageValueBoots": 4,
+    "enchantability": 50,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": []
+  }
+}

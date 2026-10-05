@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "xillys_orespawn:ruby_block"
+    }
+  ],
+  "result": {
+    "item": "xillys_orespawn:ruby",
+    "count": 9
+  }
+}

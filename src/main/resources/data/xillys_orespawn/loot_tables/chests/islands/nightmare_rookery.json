@@ -1,0 +1,7 @@
+{"type":"minecraft:chest","pools":[{"rolls":{"min":3,"max":7},"entries":[
+  {"type":"minecraft:item","name":"xillys_orespawn:nightmare_scale","weight":20,"functions":[{"function":"minecraft:set_count","count":{"min":1,"max":6}}]},
+  {"type":"minecraft:item","name":"xillys_orespawn:nightmare_sword","weight":4},
+  {"type":"minecraft:item","name":"minecraft:obsidian","weight":18,"functions":[{"function":"minecraft:set_count","count":{"min":2,"max":10}}]},
+  {"type":"minecraft:item","name":"xillys_orespawn:pitch_black_spawn_egg","weight":3},
+  {"type":"minecraft:item","name":"xillys_orespawn:crystal_apple","weight":4}
+]}]}

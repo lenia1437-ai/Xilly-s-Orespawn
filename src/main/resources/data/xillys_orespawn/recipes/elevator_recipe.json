@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:air"
+    },
+    "1": {
+      "item": "minecraft:air"
+    },
+    "2": {
+      "item": "minecraft:air"
+    },
+    "3": {
+      "item": "minecraft:diamond"
+    },
+    "4": {
+      "item": "minecraft:gunpowder"
+    },
+    "5": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "xillys_orespawn:elevator",
+    "count": 1
+  }
+}

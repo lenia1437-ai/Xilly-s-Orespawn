@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xillys_orespawn:blocks/orepointysaurus",
+    "up": "xillys_orespawn:blocks/orepointysaurus",
+    "north": "xillys_orespawn:blocks/orepointysaurus",
+    "east": "xillys_orespawn:blocks/orepointysaurus",
+    "south": "xillys_orespawn:blocks/orepointysaurus",
+    "west": "xillys_orespawn:blocks/orepointysaurus",
+    "particle": "xillys_orespawn:blocks/orepointysaurus"
+  }
+}

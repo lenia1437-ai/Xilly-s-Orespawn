@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "xillys_orespawn:lettuce_seed"
+    },
+    {
+      "item": "xillys_orespawn:tomato_seed"
+    },
+    {
+      "item": "xillys_orespawn:radish"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "item": "xillys_orespawn:salad",
+    "count": 1
+  }
+}

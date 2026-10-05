@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xillys_orespawn:blocks/tigerseye",
+    "up": "xillys_orespawn:blocks/tigerseye",
+    "north": "xillys_orespawn:blocks/tigerseye",
+    "east": "xillys_orespawn:blocks/tigerseye",
+    "south": "xillys_orespawn:blocks/tigerseye",
+    "west": "xillys_orespawn:blocks/tigerseye",
+    "particle": "xillys_orespawn:blocks/tigerseye"
+  }
+}

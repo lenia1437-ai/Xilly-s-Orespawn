@@ -1,0 +1,14 @@
+{
+  "type":"minecraft:chest",
+  "pools":[{
+    "rolls":{"min":3,"max":7},
+    "entries":[
+      {"type":"minecraft:item","name":"minecraft:book","weight":20,"functions":[{"function":"minecraft:set_count","count":{"min":2,"max":8}}]},
+      {"type":"minecraft:item","name":"minecraft:oak_planks","weight":20,"functions":[{"function":"minecraft:set_count","count":{"min":4,"max":8}}]},
+      {"type":"minecraft:item","name":"minecraft:bone","weight":15,"functions":[{"function":"minecraft:set_count","count":{"min":2,"max":8}}]},
+      {"type":"minecraft:item","name":"minecraft:ender_pearl","weight":15,"functions":[{"function":"minecraft:set_count","count":{"min":2,"max":8}}]},
+      {"type":"minecraft:item","name":"minecraft:emerald","weight":25,"functions":[{"function":"minecraft:set_count","count":{"min":6,"max":16}}]},
+      {"type":"minecraft:item","name":"xillys_orespawn:ender_knight_spawn_egg","weight":10}
+    ]
+  }]
+}

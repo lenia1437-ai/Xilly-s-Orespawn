@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "xillys_orespawn:ray_gun"
+    },
+    {
+      "item": "xillys_orespawn:big_hammer"
+    },
+    {
+      "item": "xillys_orespawn:mantis_claw"
+    },
+    {
+      "item": "xillys_orespawn:water_dragon_scale"
+    },
+    {
+      "item": "xillys_orespawn:green_goo"
+    }
+  ],
+  "result": {
+    "item": "xillys_orespawn:big_bertha_handle",
+    "count": 1
+  }
+}

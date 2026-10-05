@@ -1,0 +1,13 @@
+package net.mcreator.xillysorespawn.entity.renderer;
+
+/** Client-side animation state used by the original OreSpawn models. */
+public class RenderInfo {
+    public int ri1;
+    public int ri2;
+    public int ri3;
+    public int ri4;
+    public float rf1;
+    public float rf2;
+    public float rf3;
+    public float rf4;
+}

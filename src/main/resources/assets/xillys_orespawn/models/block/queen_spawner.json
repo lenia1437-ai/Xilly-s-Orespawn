@@ -1,0 +1,1 @@
+{ "parent": "block/cross", "textures": { "cross": "xillys_orespawn:blocks/queenspawner", "particle": "xillys_orespawn:blocks/queenspawner" } }

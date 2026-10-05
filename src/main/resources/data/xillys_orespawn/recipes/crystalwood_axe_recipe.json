@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "xillys_orespawn:crystal_planks"
+    },
+    "1": {
+      "item": "xillys_orespawn:crystal_planks"
+    },
+    "2": {
+      "item": "xillys_orespawn:crystal_planks"
+    },
+    "3": {
+      "item": "xillys_orespawn:crystal_sticks"
+    },
+    "5": {
+      "item": "xillys_orespawn:crystal_sticks"
+    }
+  },
+  "result": {
+    "item": "xillys_orespawn:crystalwood_axe",
+    "count": 1
+  }
+}

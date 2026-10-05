@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xillys_orespawn:blocks/blockeyeofender",
+    "up": "xillys_orespawn:blocks/blockeyeofender",
+    "north": "xillys_orespawn:blocks/blockeyeofender",
+    "east": "xillys_orespawn:blocks/blockeyeofender",
+    "south": "xillys_orespawn:blocks/blockeyeofender",
+    "west": "xillys_orespawn:blocks/blockeyeofender",
+    "particle": "xillys_orespawn:blocks/blockeyeofender"
+  }
+}

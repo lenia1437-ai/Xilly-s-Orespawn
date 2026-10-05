@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xillys_orespawn:blocks/blocktitanium",
+    "up": "xillys_orespawn:blocks/blocktitanium",
+    "north": "xillys_orespawn:blocks/blocktitanium",
+    "east": "xillys_orespawn:blocks/blocktitanium",
+    "south": "xillys_orespawn:blocks/blocktitanium",
+    "west": "xillys_orespawn:blocks/blocktitanium",
+    "particle": "xillys_orespawn:blocks/blocktitanium"
+  }
+}

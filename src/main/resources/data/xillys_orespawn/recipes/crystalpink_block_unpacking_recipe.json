@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "xillys_orespawn:crystalpink_block"
+    }
+  ],
+  "result": {
+    "item": "xillys_orespawn:crystalpink_ingot",
+    "count": 9
+  }
+}

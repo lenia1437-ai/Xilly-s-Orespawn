@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "xillys_orespawn:fossil_cloudshark"
+    }
+  ],
+  "result": {
+    "item": "xillys_orespawn:cloud_shark",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xillys_orespawn:blocks/oreirukandji",
+    "up": "xillys_orespawn:blocks/oreirukandji",
+    "north": "xillys_orespawn:blocks/oreirukandji",
+    "east": "xillys_orespawn:blocks/oreirukandji",
+    "south": "xillys_orespawn:blocks/oreirukandji",
+    "west": "xillys_orespawn:blocks/oreirukandji",
+    "particle": "xillys_orespawn:blocks/oreirukandji"
+  }
+}

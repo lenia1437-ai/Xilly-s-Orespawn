@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "xillys_orespawn:crystal_rat"
+    },
+    "1": {
+      "item": "xillys_orespawn:crystal_rat"
+    },
+    "2": {
+      "item": "xillys_orespawn:crystal_sticks"
+    }
+  },
+  "result": {
+    "item": "xillys_orespawn:rat_sword",
+    "count": 1
+  }
+}

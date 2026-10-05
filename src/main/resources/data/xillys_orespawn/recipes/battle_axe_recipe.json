@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "xillys_orespawn:ultimate_sword"
+    },
+    {
+      "item": "xillys_orespawn:ultimate_axe"
+    },
+    {
+      "item": "xillys_orespawn:green_goo"
+    }
+  ],
+  "result": {
+    "item": "xillys_orespawn:battle_axe",
+    "count": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "xillys_orespawn:queen_scale"
+    },
+    "1": {
+      "item": "minecraft:iron_ingot"
+    },
+    "2": {
+      "item": "xillys_orespawn:queen_scale"
+    },
+    "3": {
+      "item": "xillys_orespawn:queen_scale"
+    },
+    "4": {
+      "item": "minecraft:iron_ingot"
+    },
+    "5": {
+      "item": "xillys_orespawn:queen_scale"
+    },
+    "7": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "xillys_orespawn:queen_battle_axe",
+    "count": 1
+  }
+}

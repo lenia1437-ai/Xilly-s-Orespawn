@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xillys_orespawn:blocks/moledirt",
+    "up": "xillys_orespawn:blocks/moledirt",
+    "north": "xillys_orespawn:blocks/moledirt",
+    "east": "xillys_orespawn:blocks/moledirt",
+    "south": "xillys_orespawn:blocks/moledirt",
+    "west": "xillys_orespawn:blocks/moledirt",
+    "particle": "xillys_orespawn:blocks/moledirt"
+  }
+}

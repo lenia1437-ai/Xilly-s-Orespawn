@@ -1,0 +1,12 @@
+{
+  "type": "xillys_orespawn:chaos",
+  "generator": {
+    "type": "minecraft:noise",
+    "seed": 0,
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "biome": "xillys_orespawn:chaos"
+    },
+    "settings": "minecraft:floating_islands"
+  }
+}

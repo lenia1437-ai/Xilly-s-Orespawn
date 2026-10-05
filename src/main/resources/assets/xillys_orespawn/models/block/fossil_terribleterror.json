@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xillys_orespawn:blocks/oreterribleterror",
+    "up": "xillys_orespawn:blocks/oreterribleterror",
+    "north": "xillys_orespawn:blocks/oreterribleterror",
+    "east": "xillys_orespawn:blocks/oreterribleterror",
+    "south": "xillys_orespawn:blocks/oreterribleterror",
+    "west": "xillys_orespawn:blocks/oreterribleterror",
+    "particle": "xillys_orespawn:blocks/oreterribleterror"
+  }
+}

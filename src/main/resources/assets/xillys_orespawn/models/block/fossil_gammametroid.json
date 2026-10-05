@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xillys_orespawn:blocks/oregammametroid",
+    "up": "xillys_orespawn:blocks/oregammametroid",
+    "north": "xillys_orespawn:blocks/oregammametroid",
+    "east": "xillys_orespawn:blocks/oregammametroid",
+    "south": "xillys_orespawn:blocks/oregammametroid",
+    "west": "xillys_orespawn:blocks/oregammametroid",
+    "particle": "xillys_orespawn:blocks/oregammametroid"
+  }
+}

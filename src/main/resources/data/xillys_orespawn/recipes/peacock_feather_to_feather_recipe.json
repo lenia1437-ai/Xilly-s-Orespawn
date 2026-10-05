@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "xillys_orespawn:peacock_feather"
+    },
+    {
+      "item": "xillys_orespawn:crystal_planks"
+    },
+    {
+      "item": "xillys_orespawn:peacock_feather"
+    },
+    {
+      "item": "xillys_orespawn:crystal_planks"
+    },
+    {
+      "item": "xillys_orespawn:peacock_feather"
+    },
+    {
+      "item": "xillys_orespawn:crystal_planks"
+    }
+  ],
+  "result": {
+    "item": "minecraft:feather",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "xillys_orespawn:crystal",
+  "generator": {
+    "type": "minecraft:noise",
+    "seed": 0,
+    "settings": "xillys_orespawn:dimension_crystal",
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "biome": "xillys_orespawn:crystal"
+    }
+  }
+}

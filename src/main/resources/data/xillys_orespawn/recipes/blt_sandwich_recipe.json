@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "xillys_orespawn:cooked_bacon"
+    },
+    {
+      "item": "xillys_orespawn:lettuce_seed"
+    },
+    {
+      "item": "xillys_orespawn:tomato_seed"
+    },
+    {
+      "item": "xillys_orespawn:butter"
+    },
+    {
+      "item": "minecraft:bread"
+    }
+  ],
+  "result": {
+    "item": "xillys_orespawn:bit_sandwich",
+    "count": 1
+  }
+}

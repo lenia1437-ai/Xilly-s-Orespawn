@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "xillys_orespawn:mobzilla_scale_block"
+    }
+  ],
+  "result": {
+    "item": "xillys_orespawn:godzilla_scale",
+    "count": 9
+  }
+}

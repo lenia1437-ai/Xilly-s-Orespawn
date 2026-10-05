@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "xillys_orespawn:ruby"
+    },
+    "1": {
+      "item": "xillys_orespawn:ruby"
+    },
+    "2": {
+      "item": "xillys_orespawn:ruby"
+    },
+    "3": {
+      "item": "xillys_orespawn:ruby"
+    },
+    "5": {
+      "item": "xillys_orespawn:ruby"
+    },
+    "6": {
+      "item": "xillys_orespawn:ruby"
+    },
+    "8": {
+      "item": "xillys_orespawn:ruby"
+    }
+  },
+  "result": {
+    "item": "xillys_orespawn:ruby_armor_leggings",
+    "count": 1
+  }
+}

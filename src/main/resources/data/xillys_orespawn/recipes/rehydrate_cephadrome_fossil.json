@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "xillys_orespawn:fossil_cephadrome"
+    }
+  ],
+  "result": {
+    "item": "xillys_orespawn:cephadrome",
+    "count": 1
+  }
+}

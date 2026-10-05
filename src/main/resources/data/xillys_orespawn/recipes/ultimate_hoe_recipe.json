@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "xillys_orespawn:titanium_ingot"
+    },
+    "1": {
+      "item": "xillys_orespawn:uranium_ingot"
+    },
+    "3": {
+      "item": "minecraft:iron_ingot"
+    },
+    "5": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "xillys_orespawn:ultimate_hoe",
+    "count": 1
+  }
+}

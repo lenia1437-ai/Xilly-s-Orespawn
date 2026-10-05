@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xillys_orespawn:blocks/oretshirt",
+    "up": "xillys_orespawn:blocks/oretshirt",
+    "north": "xillys_orespawn:blocks/oretshirt",
+    "east": "xillys_orespawn:blocks/oretshirt",
+    "south": "xillys_orespawn:blocks/oretshirt",
+    "west": "xillys_orespawn:blocks/oretshirt",
+    "particle": "xillys_orespawn:blocks/oretshirt"
+  }
+}

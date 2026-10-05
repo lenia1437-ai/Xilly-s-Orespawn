@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xillys_orespawn:blocks/oresnowgolem",
+    "up": "xillys_orespawn:blocks/oresnowgolem",
+    "north": "xillys_orespawn:blocks/oresnowgolem",
+    "east": "xillys_orespawn:blocks/oresnowgolem",
+    "south": "xillys_orespawn:blocks/oresnowgolem",
+    "west": "xillys_orespawn:blocks/oresnowgolem",
+    "particle": "xillys_orespawn:blocks/oresnowgolem"
+  }
+}

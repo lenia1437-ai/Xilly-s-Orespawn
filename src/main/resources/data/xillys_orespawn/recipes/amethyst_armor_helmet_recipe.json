@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "xillys_orespawn:amethyst"
+    },
+    "1": {
+      "item": "xillys_orespawn:amethyst"
+    },
+    "2": {
+      "item": "xillys_orespawn:amethyst"
+    },
+    "3": {
+      "item": "xillys_orespawn:amethyst"
+    },
+    "5": {
+      "item": "xillys_orespawn:amethyst"
+    }
+  },
+  "result": {
+    "item": "xillys_orespawn:amethyst_armor_helmet",
+    "count": 1
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "xillys_orespawn:lava_el"
+    },
+    "2": {
+      "item": "xillys_orespawn:lava_el"
+    },
+    "3": {
+      "item": "xillys_orespawn:lava_el"
+    },
+    "4": {
+      "item": "xillys_orespawn:lava_el"
+    },
+    "5": {
+      "item": "xillys_orespawn:lava_el"
+    },
+    "6": {
+      "item": "xillys_orespawn:lava_el"
+    },
+    "7": {
+      "item": "xillys_orespawn:lava_el"
+    },
+    "8": {
+      "item": "xillys_orespawn:lava_el"
+    }
+  },
+  "result": {
+    "item": "xillys_orespawn:lava_el_armor_chestplate",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xillys_orespawn:blocks/oretheking",
+    "up": "xillys_orespawn:blocks/oretheking",
+    "north": "xillys_orespawn:blocks/oretheking",
+    "east": "xillys_orespawn:blocks/oretheking",
+    "south": "xillys_orespawn:blocks/oretheking",
+    "west": "xillys_orespawn:blocks/oretheking",
+    "particle": "xillys_orespawn:blocks/oretheking"
+  }
+}

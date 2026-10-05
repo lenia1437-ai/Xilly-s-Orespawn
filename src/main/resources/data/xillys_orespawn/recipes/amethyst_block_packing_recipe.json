@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "xillys_orespawn:amethyst"
+    },
+    "1": {
+      "item": "xillys_orespawn:amethyst"
+    },
+    "2": {
+      "item": "xillys_orespawn:amethyst"
+    },
+    "3": {
+      "item": "xillys_orespawn:amethyst"
+    },
+    "4": {
+      "item": "xillys_orespawn:amethyst"
+    },
+    "5": {
+      "item": "xillys_orespawn:amethyst"
+    },
+    "6": {
+      "item": "xillys_orespawn:amethyst"
+    },
+    "7": {
+      "item": "xillys_orespawn:amethyst"
+    },
+    "8": {
+      "item": "xillys_orespawn:amethyst"
+    }
+  },
+  "result": {
+    "item": "xillys_orespawn:amethyst_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,1873 @@
+{
+  "alien_death": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:alien_death",
+        "stream": false
+      }
+    ]
+  },
+  "alien_hurt": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:alien_hurt",
+        "stream": false
+      }
+    ]
+  },
+  "alien_living": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:alien_living",
+        "stream": false
+      }
+    ]
+  },
+  "alo_death": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:alo_death",
+        "stream": false
+      }
+    ]
+  },
+  "alo_hurt": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:alo_hurt",
+        "stream": false
+      }
+    ]
+  },
+  "alo_living": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:alo_living",
+        "stream": false
+      }
+    ]
+  },
+  "b_dark": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:b_dark",
+        "stream": false
+      }
+    ]
+  },
+  "b_death_boyfriend": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:b_death_boyfriend",
+        "stream": false
+      }
+    ]
+  },
+  "b_death_single": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:b_death_single1",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:b_death_single2",
+        "stream": false
+      }
+    ]
+  },
+  "b_fight": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:b_fight1",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:b_fight2",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:b_fight3",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:b_fight4",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:b_fight5",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:b_fight6",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:b_fight7",
+        "stream": false
+      }
+    ]
+  },
+  "b_happy": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:b_happy1",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:b_happy2",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:b_happy3",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:b_happy4",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:b_happy5",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:b_happy6",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:b_happy7",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:b_happy8",
+        "stream": false
+      }
+    ]
+  },
+  "b_hurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:b_hurt1",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:b_hurt2",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:b_hurt3",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:b_hurt4",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:b_hurt5",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:b_hurt6",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:b_hurt7",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:b_hurt8",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:b_hurt9",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:b_hurt10",
+        "stream": false
+      }
+    ]
+  },
+  "b_ow": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:b_ow1",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:b_ow2",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:b_ow3",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:b_ow4",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:b_ow5",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:b_ow6",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:b_ow7",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:b_ow8",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:b_ow9",
+        "stream": false
+      }
+    ]
+  },
+  "b_rain": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:b_rain1",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:b_rain2",
+        "stream": false
+      }
+    ]
+  },
+  "b_taunt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:b_taunt1",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:b_taunt2",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:b_taunt3",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:b_taunt4",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:b_taunt5",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:b_taunt6",
+        "stream": false
+      }
+    ]
+  },
+  "b_thunder": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:b_thunder",
+        "stream": false
+      }
+    ]
+  },
+  "b_water": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:b_water1",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:b_water2",
+        "stream": false
+      }
+    ]
+  },
+  "b_woohoo": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:b_woohoo1",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:b_woohoo2",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:b_woohoo3",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:b_woohoo4",
+        "stream": false
+      }
+    ]
+  },
+  "basilisk_living": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:basilisk_living",
+        "stream": false
+      }
+    ]
+  },
+  "bb_happy": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:bb_happy1",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:bb_happy2",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:bb_happy3",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:bb_happy4",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:bb_happy5",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:bb_happy6",
+        "stream": false
+      }
+    ]
+  },
+  "beebuzz": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:beebuzz",
+        "stream": false
+      }
+    ]
+  },
+  "big_splat": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:big_splat",
+        "stream": false
+      }
+    ]
+  },
+  "birds": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:birds1",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:birds2",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:birds3",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:birds4",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:birds5",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:birds6",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:birds7",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:birds8",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:birds9",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:birds10",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:birds11",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:birds12",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:birds13",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:birds14",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:birds15",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:birds16",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:birds17",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:birds18",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:birds19",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:birds20",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:birds21",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:birds22",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:birds23",
+        "stream": false
+      }
+    ]
+  },
+  "caterkiller_death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:caterkiller_death",
+        "stream": false
+      }
+    ]
+  },
+  "caterkiller_hit": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:caterkiller_hit1",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:caterkiller_hit2",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:caterkiller_hit3",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:caterkiller_hit4",
+        "stream": false
+      }
+    ]
+  },
+  "caterkiller_living": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:caterkiller_living1",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:caterkiller_living2",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:caterkiller_living3",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:caterkiller_living4",
+        "stream": false
+      }
+    ]
+  },
+  "chain_rattles": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:chain_rattles",
+        "stream": false
+      }
+    ]
+  },
+  "chainsaw": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:chainsaw",
+        "stream": false
+      }
+    ]
+  },
+  "chainsawshort": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:chainsawshort",
+        "stream": false
+      }
+    ]
+  },
+  "clatter": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:clatter1",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:clatter2",
+        "stream": false
+      }
+    ]
+  },
+  "cliffracer": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:cliffracer",
+        "stream": false
+      }
+    ]
+  },
+  "creepinghorror_dead": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:creepinghorror_dead",
+        "stream": false
+      }
+    ]
+  },
+  "creeperhorror_hit": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:creepinghorror_hit",
+        "stream": false
+      }
+    ]
+  },
+  "creepinghorror_living": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:creepinghorror_living",
+        "stream": false
+      }
+    ]
+  },
+  "cricket": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:cricket",
+        "stream": false
+      }
+    ]
+  },
+  "crunch": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:crunch",
+        "stream": false
+      }
+    ]
+  },
+  "cryo_death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:cryo_death",
+        "stream": false
+      }
+    ]
+  },
+  "cryo_hurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:cryo_hurt",
+        "stream": false
+      }
+    ]
+  },
+  "cryo_living": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:cryo_living",
+        "stream": false
+      }
+    ]
+  },
+  "dbdead": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:dbdead",
+        "stream": false
+      }
+    ]
+  },
+  "dbhit": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:dbhit1",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:dbhit2",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:dbhit3",
+        "stream": false
+      }
+    ]
+  },
+  "dragonfly_death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:dragonfly_death",
+        "stream": false
+      }
+    ]
+  },
+  "dragonfly_hurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:dragonfly_hurt",
+        "stream": false
+      }
+    ]
+  },
+  "dragonfly_living": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:dragonfly_living",
+        "stream": false
+      }
+    ]
+  },
+  "duck_hurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:duck_hurt",
+        "stream": false
+      }
+    ]
+  },
+  "emperorscorpion_death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:emperorscorpion_death",
+        "stream": false
+      }
+    ]
+  },
+  "fart": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:fart1",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:fart2",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:fart3",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:fart4",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:fart5",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:fart6",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:fart7",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:fart8",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:fart9",
+        "stream": false
+      }
+    ]
+  },
+  "frog": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:frog1",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:frog2",
+        "stream": false
+      }
+    ]
+  },
+  "ghost_sound": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:ghost_sound",
+        "stream": false
+      }
+    ]
+  },
+  "glassdead": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:glassdead1",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:glassdead2",
+        "stream": false
+      }
+    ]
+  },
+  "glasshit": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:glasshit1",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:glasshit2",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:glasshit3",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:glasshit4",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:glasshit5",
+        "stream": false
+      }
+    ]
+  },
+  "godzilla_death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:godzilla_death",
+        "stream": false
+      }
+    ]
+  },
+  "godzilla_living": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:godzilla_living",
+        "stream": false
+      }
+    ]
+  },
+  "hammerhead_death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:hammerhead_death",
+        "stream": false
+      }
+    ]
+  },
+  "hammerhead_living": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:hammerhead_living1",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:hammerhead_living2",
+        "stream": false
+      }
+    ]
+  },
+  "hercules_death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:hercules_death",
+        "stream": false
+      }
+    ]
+  },
+  "hover": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:hover1",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:hover2",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:hover3",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:hover4",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:hover5",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:hover6",
+        "stream": false
+      }
+    ]
+  },
+  "king_hit": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:king_hit",
+        "stream": false
+      }
+    ]
+  },
+  "king_living": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:king_living",
+        "stream": false
+      }
+    ]
+  },
+  "kraken_living": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:kraken_living",
+        "stream": false
+      }
+    ]
+  },
+  "kyuubi_living": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:kyuubi_living",
+        "stream": false
+      }
+    ]
+  },
+  "leaves_death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:leaves_death",
+        "stream": false
+      }
+    ]
+  },
+  "leaves_hit": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:leaves_hit",
+        "stream": false
+      }
+    ]
+  },
+  "leon_death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:leon_death",
+        "stream": false
+      }
+    ]
+  },
+  "leon_hit": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:leon_hit1",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:leon_hit2",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:leon_hit3",
+        "stream": false
+      }
+    ]
+  },
+  "leon_living": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:leon_living",
+        "stream": false
+      }
+    ]
+  },
+  "little_splat": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:little_splat",
+        "stream": false
+      }
+    ]
+  },
+  "lurkinghorror_dead": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:lurkinghorror_dead",
+        "stream": false
+      }
+    ]
+  },
+  "lurkinghorror_hit": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:lurkinghorror_hit",
+        "stream": false
+      }
+    ]
+  },
+  "lurkinghorror_living": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:lurkinghorror_living",
+        "stream": false
+      }
+    ]
+  },
+  "molenoid_death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:molenoid_death",
+        "stream": false
+      }
+    ]
+  },
+  "molenoid_hit": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:molenoid_hit1",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:molenoid_hit2",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:molenoid_hit3",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:molenoid_hit4",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:molenoid_hit5",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:molenoid_hit6",
+        "stream": false
+      }
+    ]
+  },
+  "molenoid_living": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:molenoid_living1",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:molenoid_living2",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:molenoid_living3",
+        "stream": false
+      }
+    ]
+  },
+  "mosquito": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:mosquito",
+        "stream": false
+      }
+    ]
+  },
+  "mothrawings": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:mothrawings1",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:mothrawings2",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:mothrawings3",
+        "stream": false
+      }
+    ]
+  },
+  "o_dark": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:o_dark",
+        "stream": false
+      }
+    ]
+  },
+  "o_death_girlfriend": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:o_death_girlfriend",
+        "stream": false
+      }
+    ]
+  },
+  "o_death_single": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:o_death_single",
+        "stream": false
+      }
+    ]
+  },
+  "o_fight": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:o_fight1",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:o_fight2",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:o_fight3",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:o_fight4",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:o_fight5",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:o_fight6",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:o_fight7",
+        "stream": false
+      }
+    ]
+  },
+  "o_happy": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:o_happy1",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:o_happy2",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:o_happy3",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:o_happy4",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:o_happy5",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:o_happy6",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:o_happy7",
+        "stream": false
+      }
+    ]
+  },
+  "o_hurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:o_hurt1",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:o_hurt2",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:o_hurt3",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:o_hurt4",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:o_hurt5",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:o_hurt6",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:o_hurt7",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:o_hurt8",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:o_hurt9",
+        "stream": false
+      }
+    ]
+  },
+  "o_ow": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:o_ow1",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:o_ow2",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:o_ow3",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:o_ow4",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:o_ow5",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:o_ow6",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:o_ow7",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:o_ow8",
+        "stream": false
+      }
+    ]
+  },
+  "o_rain": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:o_rain",
+        "stream": false
+      }
+    ]
+  },
+  "o_taunt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:o_taunt1",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:o_taunt2",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:o_taunt3",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:o_taunt4",
+        "stream": false
+      }
+    ]
+  },
+  "o_thunder": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:o_thunder",
+        "stream": false
+      }
+    ]
+  },
+  "o_water": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:o_water1",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:o_water2",
+        "stream": false
+      }
+    ]
+  },
+  "o_woohoo": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:o_woohoo1",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:o_woohoo2",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:o_woohoo3",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:o_woohoo4",
+        "stream": false
+      }
+    ]
+  },
+  "peacockdead": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:peacockdead",
+        "stream": false
+      }
+    ]
+  },
+  "pitchblack_hit": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:pitchblack_hit",
+        "stream": false
+      }
+    ]
+  },
+  "peacockhit": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:peacockhit",
+        "stream": false
+      }
+    ]
+  },
+  "peacocklive": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:peacocklive",
+        "stream": false
+      }
+    ]
+  },
+  "pitchblack_living": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:pitchblack_living",
+        "stream": false
+      }
+    ]
+  },
+  "ratdead": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:ratdead1",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:ratdead2",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:ratdead3",
+        "stream": false
+      }
+    ]
+  },
+  "rathit": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:rathit",
+        "stream": false
+      }
+    ]
+  },
+  "ratlive": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:ratlive",
+        "stream": false
+      }
+    ]
+  },
+  "roar": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:roar1",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:roar2",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:roar3",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:roar4",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:roar5",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:roar6",
+        "stream": false
+      }
+    ]
+  },
+  "robot_death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:robot_death1",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:robot_death2",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:robot_death3",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:robot_death4",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:robot_death5",
+        "stream": false
+      }
+    ]
+  },
+  "robot_hurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:robot_hurt1",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:robot_hurt2",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:robot_hurt3",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:robot_hurt4",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:robot_hurt5",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:robot_hurt6",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:robot_hurt7",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:robot_hurt8",
+        "stream": false
+      }
+    ]
+  },
+  "robot_living": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:robot_living1",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:robot_living2",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:robot_living3",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:robot_living4",
+        "stream": false
+      }
+    ]
+  },
+  "robot1_death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:robot1_death",
+        "stream": false
+      }
+    ]
+  },
+  "robotspider": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:robotspider1",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:robotspider2",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:robotspider3",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:robotspider4",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:robotspider5",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:robotspider6",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:robotspider7",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:robotspider8",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:robotspider9",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:robotspider10",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:robotspider11",
+        "stream": false
+      }
+    ]
+  },
+  "robotspidermount": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:robotspidermount",
+        "stream": false
+      }
+    ]
+  },
+  "rubybird": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:rubybird",
+        "stream": false
+      }
+    ]
+  },
+  "scorpion_attack": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:scorpion_attack",
+        "stream": false
+      }
+    ]
+  },
+  "scorpion_hit": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:scorpion_hit",
+        "stream": false
+      }
+    ]
+  },
+  "scorpion_living": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:scorpion_living",
+        "stream": false
+      }
+    ]
+  },
+  "seamonster_death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:seamonster_death",
+        "stream": false
+      }
+    ]
+  },
+  "seamonster_hit": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:seamonster_hit",
+        "stream": false
+      }
+    ]
+  },
+  "seamonster_living1": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:seamonster_living1",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:seamonster_living2",
+        "stream": false
+      }
+    ]
+  },
+  "seaviper_death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:seaviper_death",
+        "stream": false
+      }
+    ]
+  },
+  "seaviper_hit": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:seaviper_hit1",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:seaviper_hit2",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:seaviper_hit3",
+        "stream": false
+      }
+    ]
+  },
+  "seaviper_living": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:seaviper_living",
+        "stream": false
+      }
+    ]
+  },
+  "squid_death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:squid_death1",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:squid_death2",
+        "stream": false
+      }
+    ]
+  },
+  "squid_hurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:squid_hurt1",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:squid_hurt2",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:squid_hurt3",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:squid_hurt4",
+        "stream": false
+      }
+    ]
+  },
+  "terribleterror_dead": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:terribleterror_dead",
+        "stream": false
+      }
+    ]
+  },
+  "terribleterror_hit": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:terribleterror_hit",
+        "stream": false
+      }
+    ]
+  },
+  "terribleterror_living": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:terribleterror_living",
+        "stream": false
+      }
+    ]
+  },
+  "trex_death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:trex_death",
+        "stream": false
+      }
+    ]
+  },
+  "trex_living": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:trex_living",
+        "stream": false
+      }
+    ]
+  },
+  "triffid_dead": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:triffid_dead",
+        "stream": false
+      }
+    ]
+  },
+  "triffid_hit": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:triffid_hit",
+        "stream": false
+      }
+    ]
+  },
+  "triffid_living": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:triffid_living",
+        "stream": false
+      }
+    ]
+  },
+  "vortexlive": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:vortexlive",
+        "stream": false
+      }
+    ]
+  },
+  "waterdragon_death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:waterdragon_death",
+        "stream": false
+      }
+    ]
+  },
+  "waterdragon_hurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:waterdragon_hurt1",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:waterdragon_hurt2",
+        "stream": false
+      },
+      {
+        "name": "xillys_orespawn:waterdragon_hurt3",
+        "stream": false
+      }
+    ]
+  },
+  "wtf_hurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:wtf_hurt",
+        "stream": false
+      }
+    ]
+  },
+  "wtf_living": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "xillys_orespawn:wtf_living",
+        "stream": false
+      }
+    ]
+  }
+}

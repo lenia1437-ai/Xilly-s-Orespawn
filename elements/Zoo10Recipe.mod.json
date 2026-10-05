@@ -1,0 +1,92 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Zoo8"
+      },
+      {
+        "value": "Blocks.IRON_BLOCK"
+      },
+      {
+        "value": "Blocks.GLASS"
+      },
+      {
+        "value": "Blocks.IRON_BARS"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Zoo10"
+    },
+    "smeltingInputStack": {
+      "value": ""
+    },
+    "smeltingReturnStack": {
+      "value": ""
+    },
+    "blastingInputStack": {
+      "value": ""
+    },
+    "blastingReturnStack": {
+      "value": ""
+    },
+    "smokingInputStack": {
+      "value": ""
+    },
+    "smokingReturnStack": {
+      "value": ""
+    },
+    "stoneCuttingInputStack": {
+      "value": ""
+    },
+    "stoneCuttingReturnStack": {
+      "value": ""
+    },
+    "campfireCookingInputStack": {
+      "value": ""
+    },
+    "campfireCookingReturnStack": {
+      "value": ""
+    },
+    "smithingInputStack": {
+      "value": ""
+    },
+    "smithingInputAdditionStack": {
+      "value": ""
+    },
+    "smithingReturnStack": {
+      "value": ""
+    },
+    "brewingInputStack": {
+      "value": ""
+    },
+    "brewingIngredientStack": {
+      "value": ""
+    },
+    "brewingReturnStack": {
+      "value": ""
+    }
+  }
+}

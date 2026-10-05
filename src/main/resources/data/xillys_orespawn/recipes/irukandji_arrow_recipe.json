@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "xillys_orespawn:peacock_feather"
+    },
+    {
+      "item": "xillys_orespawn:dead_irukandji"
+    },
+    {
+      "item": "xillys_orespawn:crystal_sticks"
+    }
+  ],
+  "result": {
+    "item": "xillys_orespawn:irukandji_arrow",
+    "count": 1
+  }
+}

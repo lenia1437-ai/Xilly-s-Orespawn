@@ -1,0 +1,10 @@
+{
+  "_fv": 33,
+  "_type": "loottable",
+  "definition": {
+    "type": "Chest",
+    "pools": [],
+    "name": "chests/generic_dungeon",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xillys_orespawn:blocks/skytreelog",
+    "up": "xillys_orespawn:blocks/skytreelog",
+    "north": "xillys_orespawn:blocks/skytreelog",
+    "east": "xillys_orespawn:blocks/skytreelog",
+    "south": "xillys_orespawn:blocks/skytreelog",
+    "west": "xillys_orespawn:blocks/skytreelog",
+    "particle": "xillys_orespawn:blocks/skytreelog"
+  }
+}

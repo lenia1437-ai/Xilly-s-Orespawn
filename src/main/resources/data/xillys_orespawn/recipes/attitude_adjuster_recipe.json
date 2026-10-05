@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "xillys_orespawn:ultimate_sword"
+    },
+    {
+      "item": "xillys_orespawn:ultimate_sword"
+    },
+    {
+      "item": "xillys_orespawn:big_hammer"
+    },
+    {
+      "item": "xillys_orespawn:green_goo"
+    }
+  ],
+  "result": {
+    "item": "xillys_orespawn:hammy",
+    "count": 1
+  }
+}

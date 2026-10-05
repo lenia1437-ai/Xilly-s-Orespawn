@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xillys_orespawn:blocks/oreattacksquid",
+    "up": "xillys_orespawn:blocks/oreattacksquid",
+    "north": "xillys_orespawn:blocks/oreattacksquid",
+    "east": "xillys_orespawn:blocks/oreattacksquid",
+    "south": "xillys_orespawn:blocks/oreattacksquid",
+    "west": "xillys_orespawn:blocks/oreattacksquid",
+    "particle": "xillys_orespawn:blocks/oreattacksquid"
+  }
+}

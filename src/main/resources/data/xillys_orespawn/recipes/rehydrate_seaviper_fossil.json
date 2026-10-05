@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "xillys_orespawn:fossil_seaviper"
+    }
+  ],
+  "result": {
+    "item": "xillys_orespawn:sea_viper",
+    "count": 1
+  }
+}

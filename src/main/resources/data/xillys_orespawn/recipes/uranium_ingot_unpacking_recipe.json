@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "xillys_orespawn:uranium_ingot"
+    }
+  ],
+  "result": {
+    "item": "xillys_orespawn:uranium_nugget",
+    "count": 9
+  }
+}

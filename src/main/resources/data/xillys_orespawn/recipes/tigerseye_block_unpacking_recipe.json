@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "xillys_orespawn:tigerseye_block"
+    }
+  ],
+  "result": {
+    "item": "xillys_orespawn:tigerseye_ingot",
+    "count": 9
+  }
+}

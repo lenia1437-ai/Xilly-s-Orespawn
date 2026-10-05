@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "xillys_orespawn:amethyst"
+    },
+    "1": {
+      "item": "xillys_orespawn:amethyst"
+    },
+    "2": {
+      "item": "xillys_orespawn:amethyst"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "xillys_orespawn:amethyst_pickaxe",
+    "count": 1
+  }
+}

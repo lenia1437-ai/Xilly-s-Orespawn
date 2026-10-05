@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xillys_orespawn:blocks/lavafoam",
+    "up": "xillys_orespawn:blocks/lavafoam",
+    "north": "xillys_orespawn:blocks/lavafoam",
+    "east": "xillys_orespawn:blocks/lavafoam",
+    "south": "xillys_orespawn:blocks/lavafoam",
+    "west": "xillys_orespawn:blocks/lavafoam",
+    "particle": "xillys_orespawn:blocks/lavafoam"
+  }
+}

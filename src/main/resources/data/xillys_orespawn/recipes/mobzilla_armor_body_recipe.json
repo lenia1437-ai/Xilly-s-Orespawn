@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "xillys_orespawn:godzilla_scale"
+    },
+    "2": {
+      "item": "xillys_orespawn:godzilla_scale"
+    },
+    "3": {
+      "item": "xillys_orespawn:godzilla_scale"
+    },
+    "4": {
+      "item": "xillys_orespawn:godzilla_scale"
+    },
+    "5": {
+      "item": "xillys_orespawn:godzilla_scale"
+    },
+    "6": {
+      "item": "xillys_orespawn:godzilla_scale"
+    },
+    "7": {
+      "item": "xillys_orespawn:godzilla_scale"
+    },
+    "8": {
+      "item": "xillys_orespawn:godzilla_scale"
+    }
+  },
+  "result": {
+    "item": "xillys_orespawn:mobzilla_armor_chestplate",
+    "count": 1
+  }
+}

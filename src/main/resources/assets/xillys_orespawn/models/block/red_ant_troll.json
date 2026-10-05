@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xillys_orespawn:blocks/redanttroll",
+    "up": "xillys_orespawn:blocks/redanttroll",
+    "north": "xillys_orespawn:blocks/redanttroll",
+    "east": "xillys_orespawn:blocks/redanttroll",
+    "south": "xillys_orespawn:blocks/redanttroll",
+    "west": "xillys_orespawn:blocks/redanttroll",
+    "particle": "xillys_orespawn:blocks/redanttroll"
+  }
+}

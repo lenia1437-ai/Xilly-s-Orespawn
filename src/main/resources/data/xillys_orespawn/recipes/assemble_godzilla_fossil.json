@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "xillys_orespawn:fossil_godzillapart"
+    },
+    {
+      "item": "xillys_orespawn:fossil_godzillapart"
+    },
+    {
+      "item": "xillys_orespawn:fossil_godzillapart"
+    },
+    {
+      "item": "xillys_orespawn:fossil_godzillapart"
+    },
+    {
+      "item": "xillys_orespawn:fossil_godzillapart"
+    },
+    {
+      "item": "xillys_orespawn:fossil_godzillapart"
+    },
+    {
+      "item": "xillys_orespawn:fossil_godzillapart"
+    },
+    {
+      "item": "xillys_orespawn:fossil_godzillapart"
+    },
+    {
+      "item": "xillys_orespawn:fossil_godzillapart"
+    }
+  ],
+  "result": {
+    "item": "xillys_orespawn:fossil_godzilla",
+    "count": 1
+  }
+}

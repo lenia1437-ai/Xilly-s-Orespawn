@@ -1,0 +1,70 @@
+{
+  "_fv": 33,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "queen_helmet",
+    "enableBody": true,
+    "textureBody": "queen_chest",
+    "enableLeggings": true,
+    "textureLeggings": "queen_leggings",
+    "enableBoots": true,
+    "textureBoots": "queen_boots",
+    "onHelmetTick": {
+      "name": "OnItemEnchantArmorNoAdditionalTrigger"
+    },
+    "onBodyTick": {
+      "name": "OnItemEnchantArmorNoAdditionalTrigger"
+    },
+    "onLeggingsTick": {
+      "name": "OnItemEnchantArmorNoAdditionalTrigger"
+    },
+    "onBootsTick": {
+      "name": "OnItemEnchantArmorNoAdditionalTrigger"
+    },
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "queen_",
+    "helmetName": "Queen Armor Helmet",
+    "bodyName": "Queen Armor Body",
+    "leggingsName": "Queen Armor Leggings",
+    "bootsName": "Queen Armor Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 750,
+    "damageValueHelmet": 9,
+    "damageValueBody": 16,
+    "damageValueLeggings": 14,
+    "damageValueBoots": 9,
+    "enchantability": 100,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": []
+  }
+}

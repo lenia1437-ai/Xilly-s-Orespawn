@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "xillys_orespawn:popcorn_buttered_salted"
+    },
+    {
+      "item": "xillys_orespawn:popcorn_buttered_salted"
+    },
+    {
+      "item": "xillys_orespawn:popcorn_buttered_salted"
+    },
+    {
+      "item": "xillys_orespawn:popcorn_buttered_salted"
+    },
+    {
+      "item": "xillys_orespawn:popcorn_buttered_salted"
+    },
+    {
+      "item": "xillys_orespawn:popcorn_buttered_salted"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:paper"
+    }
+  ],
+  "result": {
+    "item": "xillys_orespawn:popcorn_bag",
+    "count": 1
+  }
+}

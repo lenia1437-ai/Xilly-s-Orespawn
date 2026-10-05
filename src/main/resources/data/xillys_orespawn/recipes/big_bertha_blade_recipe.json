@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "xillys_orespawn:kraken_tooth"
+    },
+    {
+      "item": "xillys_orespawn:worm_tooth"
+    },
+    {
+      "item": "xillys_orespawn:t_rex_tooth"
+    },
+    {
+      "item": "xillys_orespawn:ultimate_sword"
+    },
+    {
+      "item": "xillys_orespawn:cater_killer_jaw"
+    },
+    {
+      "item": "xillys_orespawn:sea_viper_tongue"
+    },
+    {
+      "item": "xillys_orespawn:vortex_eye"
+    }
+  ],
+  "result": {
+    "item": "xillys_orespawn:big_bertha_blade",
+    "count": 1
+  }
+}

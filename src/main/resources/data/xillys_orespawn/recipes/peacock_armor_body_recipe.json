@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "xillys_orespawn:peacock_feather"
+    },
+    "2": {
+      "item": "xillys_orespawn:peacock_feather"
+    },
+    "3": {
+      "item": "xillys_orespawn:peacock_feather"
+    },
+    "4": {
+      "item": "xillys_orespawn:peacock_feather"
+    },
+    "5": {
+      "item": "xillys_orespawn:peacock_feather"
+    },
+    "6": {
+      "item": "xillys_orespawn:peacock_feather"
+    },
+    "7": {
+      "item": "xillys_orespawn:peacock_feather"
+    },
+    "8": {
+      "item": "xillys_orespawn:peacock_feather"
+    }
+  },
+  "result": {
+    "item": "xillys_orespawn:peacock_armor_chestplate",
+    "count": 1
+  }
+}

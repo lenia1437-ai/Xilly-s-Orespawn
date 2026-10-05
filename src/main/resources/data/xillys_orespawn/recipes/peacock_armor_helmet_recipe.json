@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "xillys_orespawn:peacock_feather"
+    },
+    "1": {
+      "item": "xillys_orespawn:peacock_feather"
+    },
+    "2": {
+      "item": "xillys_orespawn:peacock_feather"
+    },
+    "3": {
+      "item": "xillys_orespawn:peacock_feather"
+    },
+    "5": {
+      "item": "xillys_orespawn:peacock_feather"
+    }
+  },
+  "result": {
+    "item": "xillys_orespawn:peacock_armor_helmet",
+    "count": 1
+  }
+}

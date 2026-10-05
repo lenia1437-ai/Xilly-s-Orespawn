@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "xillys_orespawn:ruby"
+    },
+    "1": {
+      "item": "xillys_orespawn:ruby"
+    },
+    "2": {
+      "item": "xillys_orespawn:ruby"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "xillys_orespawn:ruby_pickaxe",
+    "count": 1
+  }
+}

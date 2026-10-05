@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "xillys_orespawn:crystal_coal"
+    },
+    {
+      "item": "xillys_orespawn:crystal_sticks"
+    }
+  ],
+  "result": {
+    "item": "xillys_orespawn:crystal_torch",
+    "count": 6
+  }
+}

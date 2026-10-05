@@ -1,0 +1,7 @@
+{"type":"minecraft:chest","pools":[{"rolls":{"min":4,"max":8},"entries":[
+  {"type":"minecraft:item","name":"xillys_orespawn:dead_stink_bug","weight":25,"functions":[{"function":"minecraft:set_count","count":{"min":2,"max":10}}]},
+  {"type":"minecraft:item","name":"xillys_orespawn:duct_tape","weight":10},
+  {"type":"minecraft:item","name":"xillys_orespawn:bacon","weight":15,"functions":[{"function":"minecraft:set_count","count":{"min":2,"max":7}}]},
+  {"type":"minecraft:item","name":"xillys_orespawn:crabby_patty","weight":10},
+  {"type":"minecraft:item","name":"xillys_orespawn:stinky_spawn_egg","weight":3}
+]}]}

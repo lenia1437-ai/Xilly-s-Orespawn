@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "xillys_orespawn:fossil_thequeenpart"
+    },
+    {
+      "item": "xillys_orespawn:fossil_thequeenpart"
+    },
+    {
+      "item": "xillys_orespawn:fossil_thequeenpart"
+    },
+    {
+      "item": "xillys_orespawn:fossil_thequeenpart"
+    },
+    {
+      "item": "xillys_orespawn:fossil_thequeenpart"
+    },
+    {
+      "item": "xillys_orespawn:fossil_thequeenpart"
+    },
+    {
+      "item": "xillys_orespawn:fossil_thequeenpart"
+    },
+    {
+      "item": "xillys_orespawn:fossil_thequeenpart"
+    },
+    {
+      "item": "xillys_orespawn:fossil_thequeenpart"
+    }
+  ],
+  "result": {
+    "item": "xillys_orespawn:fossil_thequeen",
+    "count": 1
+  }
+}

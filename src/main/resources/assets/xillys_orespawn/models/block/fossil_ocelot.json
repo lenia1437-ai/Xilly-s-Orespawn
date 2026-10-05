@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xillys_orespawn:blocks/oreocelot",
+    "up": "xillys_orespawn:blocks/oreocelot",
+    "north": "xillys_orespawn:blocks/oreocelot",
+    "east": "xillys_orespawn:blocks/oreocelot",
+    "south": "xillys_orespawn:blocks/oreocelot",
+    "west": "xillys_orespawn:blocks/oreocelot",
+    "particle": "xillys_orespawn:blocks/oreocelot"
+  }
+}

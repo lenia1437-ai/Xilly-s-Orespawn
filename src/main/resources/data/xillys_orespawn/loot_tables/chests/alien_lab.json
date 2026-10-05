@@ -1,0 +1,18 @@
+{
+  "type":"minecraft:chest",
+  "pools":[{
+    "rolls":{"min":3,"max":7},
+    "entries":[
+      {"type":"minecraft:item","name":"minecraft:quartz","weight":15,"functions":[{"function":"minecraft:set_count","count":{"min":1,"max":2}}]},
+      {"type":"minecraft:item","name":"xillys_orespawn:ruby","weight":20},
+      {"type":"minecraft:item","name":"xillys_orespawn:amethyst","weight":20},
+      {"type":"minecraft:item","name":"xillys_orespawn:uranium_ingot","weight":5,"functions":[{"function":"minecraft:set_count","count":{"min":1,"max":2}}]},
+      {"type":"minecraft:item","name":"xillys_orespawn:titanium_ingot","weight":5,"functions":[{"function":"minecraft:set_count","count":{"min":1,"max":2}}]},
+      {"type":"minecraft:item","name":"xillys_orespawn:nightmare_sword","weight":15},
+      {"type":"minecraft:item","name":"xillys_orespawn:ray_gun","weight":10},
+      {"type":"minecraft:item","name":"xillys_orespawn:bacon","weight":20,"functions":[{"function":"minecraft:set_count","count":{"min":1,"max":5}}]},
+      {"type":"minecraft:item","name":"xillys_orespawn:alien_spawn_egg","weight":12},
+      {"type":"minecraft:item","name":"xillys_orespawn:gamma_metroid_spawn_egg","weight":12}
+    ]
+  }]
+}

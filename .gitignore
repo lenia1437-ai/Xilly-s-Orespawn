@@ -1,0 +1,15 @@
+# Generated build output and local MCreator state
+.gradle/
+.mcreator/
+build/
+run/
+
+# IDE metadata and local logs
+.settings/
+.classpath
+.project
+*.log
+
+# Compiled classes and temporary files
+*.class
+*.tmp

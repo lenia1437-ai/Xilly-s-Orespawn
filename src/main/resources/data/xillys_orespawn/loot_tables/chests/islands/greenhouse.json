@@ -1,0 +1,8 @@
+{"type":"minecraft:chest","pools":[{"rolls":{"min":5,"max":10},"entries":[
+  {"type":"minecraft:item","name":"xillys_orespawn:apple_tree_seed","weight":15,"functions":[{"function":"minecraft:set_count","count":{"min":1,"max":4}}]},
+  {"type":"minecraft:item","name":"xillys_orespawn:peachtree_seed","weight":15,"functions":[{"function":"minecraft:set_count","count":{"min":1,"max":4}}]},
+  {"type":"minecraft:item","name":"xillys_orespawn:strawberry_seed","weight":15,"functions":[{"function":"minecraft:set_count","count":{"min":1,"max":5}}]},
+  {"type":"minecraft:item","name":"xillys_orespawn:corn_seed","weight":15,"functions":[{"function":"minecraft:set_count","count":{"min":1,"max":5}}]},
+  {"type":"minecraft:item","name":"xillys_orespawn:instant_garden","weight":3},
+  {"type":"minecraft:item","name":"xillys_orespawn:magic_apple","weight":5}
+]}]}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "xillys_orespawn:dead_stink_bug"
+    },
+    "1": {
+      "item": "xillys_orespawn:dead_stink_bug"
+    },
+    "2": {
+      "item": "xillys_orespawn:dead_stink_bug"
+    },
+    "3": {
+      "item": "xillys_orespawn:dead_stink_bug"
+    },
+    "4": {
+      "item": "xillys_orespawn:emerald_sword"
+    },
+    "5": {
+      "item": "xillys_orespawn:dead_stink_bug"
+    },
+    "6": {
+      "item": "xillys_orespawn:dead_stink_bug"
+    },
+    "7": {
+      "item": "xillys_orespawn:dead_stink_bug"
+    },
+    "8": {
+      "item": "xillys_orespawn:dead_stink_bug"
+    }
+  },
+  "result": {
+    "item": "xillys_orespawn:poison_sword",
+    "count": 1
+  }
+}

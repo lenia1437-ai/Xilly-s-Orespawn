@@ -1,0 +1,92 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:CrystalpinkIngot"
+      },
+      {
+        "value": "CUSTOM:CrystalpinkIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CrystalSticks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CrystalSticks"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CrystalpinkHoe"
+    },
+    "smeltingInputStack": {
+      "value": ""
+    },
+    "smeltingReturnStack": {
+      "value": ""
+    },
+    "blastingInputStack": {
+      "value": ""
+    },
+    "blastingReturnStack": {
+      "value": ""
+    },
+    "smokingInputStack": {
+      "value": ""
+    },
+    "smokingReturnStack": {
+      "value": ""
+    },
+    "stoneCuttingInputStack": {
+      "value": ""
+    },
+    "stoneCuttingReturnStack": {
+      "value": ""
+    },
+    "campfireCookingInputStack": {
+      "value": ""
+    },
+    "campfireCookingReturnStack": {
+      "value": ""
+    },
+    "smithingInputStack": {
+      "value": ""
+    },
+    "smithingInputAdditionStack": {
+      "value": ""
+    },
+    "smithingReturnStack": {
+      "value": ""
+    },
+    "brewingInputStack": {
+      "value": ""
+    },
+    "brewingIngredientStack": {
+      "value": ""
+    },
+    "brewingReturnStack": {
+      "value": ""
+    }
+  }
+}

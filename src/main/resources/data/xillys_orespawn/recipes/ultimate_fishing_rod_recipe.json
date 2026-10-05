@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 45",
+    "6 8"
+  ],
+  "key": {
+    "2": {
+      "item": "xillys_orespawn:titanium_ingot"
+    },
+    "4": {
+      "item": "xillys_orespawn:uranium_ingot"
+    },
+    "5": {
+      "item": "minecraft:string"
+    },
+    "6": {
+      "item": "minecraft:iron_ingot"
+    },
+    "8": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "xillys_orespawn:ultimate_fishing_rod",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xillys_orespawn:blocks/orespiderdriver",
+    "up": "xillys_orespawn:blocks/orespiderdriver",
+    "north": "xillys_orespawn:blocks/orespiderdriver",
+    "east": "xillys_orespawn:blocks/orespiderdriver",
+    "south": "xillys_orespawn:blocks/orespiderdriver",
+    "west": "xillys_orespawn:blocks/orespiderdriver",
+    "particle": "xillys_orespawn:blocks/orespiderdriver"
+  }
+}

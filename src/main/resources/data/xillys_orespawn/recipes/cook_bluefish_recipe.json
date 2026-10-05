@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 0.2,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "xillys_orespawn:bluefish"
+  },
+  "result": {
+    "item": "minecraft:cooked_cod"
+  }
+}

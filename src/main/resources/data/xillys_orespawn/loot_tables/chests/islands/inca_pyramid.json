@@ -1,0 +1,7 @@
+{"type":"minecraft:chest","pools":[{"rolls":{"min":5,"max":10},"entries":[
+  {"type":"minecraft:item","name":"minecraft:gold_ingot","weight":25,"functions":[{"function":"minecraft:set_count","count":{"min":2,"max":12}}]},
+  {"type":"minecraft:item","name":"minecraft:emerald","weight":18,"functions":[{"function":"minecraft:set_count","count":{"min":1,"max":8}}]},
+  {"type":"minecraft:item","name":"xillys_orespawn:titanium_ingot","weight":8,"functions":[{"function":"minecraft:set_count","count":{"min":1,"max":3}}]},
+  {"type":"minecraft:item","name":"xillys_orespawn:uranium_ingot","weight":8,"functions":[{"function":"minecraft:set_count","count":{"min":1,"max":3}}]},
+  {"type":"minecraft:item","name":"xillys_orespawn:emperor_scorpion_scale","weight":10}
+]}]}

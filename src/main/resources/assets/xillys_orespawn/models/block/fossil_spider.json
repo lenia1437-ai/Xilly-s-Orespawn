@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xillys_orespawn:blocks/orespider",
+    "up": "xillys_orespawn:blocks/orespider",
+    "north": "xillys_orespawn:blocks/orespider",
+    "east": "xillys_orespawn:blocks/orespider",
+    "south": "xillys_orespawn:blocks/orespider",
+    "west": "xillys_orespawn:blocks/orespider",
+    "particle": "xillys_orespawn:blocks/orespider"
+  }
+}

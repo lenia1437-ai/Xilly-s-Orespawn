@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xillys_orespawn:blocks/crystaltreeleaves",
+    "up": "xillys_orespawn:blocks/crystaltreeleaves",
+    "north": "xillys_orespawn:blocks/crystaltreeleaves",
+    "east": "xillys_orespawn:blocks/crystaltreeleaves",
+    "south": "xillys_orespawn:blocks/crystaltreeleaves",
+    "west": "xillys_orespawn:blocks/crystaltreeleaves",
+    "particle": "xillys_orespawn:blocks/crystaltreeleaves"
+  }
+}

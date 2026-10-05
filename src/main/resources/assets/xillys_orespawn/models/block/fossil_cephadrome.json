@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xillys_orespawn:blocks/orecephadrome",
+    "up": "xillys_orespawn:blocks/orecephadrome",
+    "north": "xillys_orespawn:blocks/orecephadrome",
+    "east": "xillys_orespawn:blocks/orecephadrome",
+    "south": "xillys_orespawn:blocks/orecephadrome",
+    "west": "xillys_orespawn:blocks/orecephadrome",
+    "particle": "xillys_orespawn:blocks/orecephadrome"
+  }
+}

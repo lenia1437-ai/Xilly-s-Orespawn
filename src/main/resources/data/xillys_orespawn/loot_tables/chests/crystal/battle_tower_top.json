@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    { "rolls": 4, "entries": [{ "type": "minecraft:loot_table", "name": "xillys_orespawn:chests/crystal/common" }] },
+    { "rolls": 1, "entries": [
+      { "type": "minecraft:item", "name": "xillys_orespawn:tigerseye_block", "weight": 1 },
+      { "type": "minecraft:item", "name": "xillys_orespawn:crystalpink_block", "weight": 1 }
+    ] }
+  ]
+}

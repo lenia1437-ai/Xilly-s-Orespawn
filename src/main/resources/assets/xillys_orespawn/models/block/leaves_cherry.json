@@ -1,0 +1,58 @@
+{
+  "parent": "block/block",
+  "textures": {
+    "down": "xillys_orespawn:blocks/leaves_cherry",
+    "up": "xillys_orespawn:blocks/leaves_cherry",
+    "north": "xillys_orespawn:blocks/leaves_cherry",
+    "east": "xillys_orespawn:blocks/leaves_cherry",
+    "south": "xillys_orespawn:blocks/leaves_cherry",
+    "west": "xillys_orespawn:blocks/leaves_cherry",
+    "particle": "xillys_orespawn:blocks/leaves_cherry"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        16,
+        16,
+        16
+      ],
+      "faces": {
+        "down": {
+          "texture": "#down",
+          "tintindex": 0,
+          "cullface": "down"
+        },
+        "up": {
+          "texture": "#up",
+          "tintindex": 0,
+          "cullface": "up"
+        },
+        "north": {
+          "texture": "#north",
+          "tintindex": 0,
+          "cullface": "north"
+        },
+        "south": {
+          "texture": "#south",
+          "tintindex": 0,
+          "cullface": "south"
+        },
+        "west": {
+          "texture": "#west",
+          "tintindex": 0,
+          "cullface": "west"
+        },
+        "east": {
+          "texture": "#east",
+          "tintindex": 0,
+          "cullface": "east"
+        }
+      }
+    }
+  ]
+}

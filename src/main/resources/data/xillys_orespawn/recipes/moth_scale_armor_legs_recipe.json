@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "xillys_orespawn:moth_scale"
+    },
+    "1": {
+      "item": "xillys_orespawn:moth_scale"
+    },
+    "2": {
+      "item": "xillys_orespawn:moth_scale"
+    },
+    "3": {
+      "item": "xillys_orespawn:moth_scale"
+    },
+    "5": {
+      "item": "xillys_orespawn:moth_scale"
+    },
+    "6": {
+      "item": "xillys_orespawn:moth_scale"
+    },
+    "8": {
+      "item": "xillys_orespawn:moth_scale"
+    }
+  },
+  "result": {
+    "item": "xillys_orespawn:moth_scale_armor_leggings",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xillys_orespawn:blocks/ducttape_bottom",
+    "up": "xillys_orespawn:blocks/ducttape_top",
+    "north": "xillys_orespawn:blocks/ducttape_inner",
+    "east": "xillys_orespawn:blocks/ducttape_inner",
+    "south": "xillys_orespawn:blocks/ducttape_inner",
+    "west": "xillys_orespawn:blocks/ducttape_inner",
+    "particle": "xillys_orespawn:blocks/ducttape_bottom"
+  }
+}

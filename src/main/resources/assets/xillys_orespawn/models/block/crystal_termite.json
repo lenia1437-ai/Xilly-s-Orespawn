@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xillys_orespawn:blocks/crystaltermite_bottom",
+    "up": "xillys_orespawn:blocks/crystaltermite_top",
+    "north": "xillys_orespawn:blocks/crystaltermite_side",
+    "east": "xillys_orespawn:blocks/crystaltermite_side",
+    "south": "xillys_orespawn:blocks/crystaltermite_side",
+    "west": "xillys_orespawn:blocks/crystaltermite_side",
+    "particle": "xillys_orespawn:blocks/crystaltermite_bottom"
+  }
+}

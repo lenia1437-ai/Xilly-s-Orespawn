@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xillys_orespawn:blocks/oremothra",
+    "up": "xillys_orespawn:blocks/oremothra",
+    "north": "xillys_orespawn:blocks/oremothra",
+    "east": "xillys_orespawn:blocks/oremothra",
+    "south": "xillys_orespawn:blocks/oremothra",
+    "west": "xillys_orespawn:blocks/oremothra",
+    "particle": "xillys_orespawn:blocks/oremothra"
+  }
+}

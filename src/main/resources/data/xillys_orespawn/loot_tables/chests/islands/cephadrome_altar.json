@@ -1,0 +1,7 @@
+{"type":"minecraft:chest","pools":[{"rolls":{"min":3,"max":7},"entries":[
+  {"type":"minecraft:item","name":"xillys_orespawn:bluefish","weight":18,"functions":[{"function":"minecraft:set_count","count":{"min":1,"max":5}}]},
+  {"type":"minecraft:item","name":"xillys_orespawn:greenfish","weight":18,"functions":[{"function":"minecraft:set_count","count":{"min":1,"max":5}}]},
+  {"type":"minecraft:item","name":"xillys_orespawn:amethyst","weight":12,"functions":[{"function":"minecraft:set_count","count":{"min":1,"max":4}}]},
+  {"type":"minecraft:item","name":"xillys_orespawn:amethyst_sword","weight":4},
+  {"type":"minecraft:item","name":"xillys_orespawn:cephadrome_spawn_egg","weight":2}
+]}]}

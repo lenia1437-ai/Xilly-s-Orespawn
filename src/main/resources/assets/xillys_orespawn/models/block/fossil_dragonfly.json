@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xillys_orespawn:blocks/oredragonfly",
+    "up": "xillys_orespawn:blocks/oredragonfly",
+    "north": "xillys_orespawn:blocks/oredragonfly",
+    "east": "xillys_orespawn:blocks/oredragonfly",
+    "south": "xillys_orespawn:blocks/oredragonfly",
+    "west": "xillys_orespawn:blocks/oredragonfly",
+    "particle": "xillys_orespawn:blocks/oredragonfly"
+  }
+}

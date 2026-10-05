@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "xillys_orespawn:crystal_planks"
+    },
+    {
+      "item": "xillys_orespawn:crystal_planks"
+    },
+    {
+      "item": "xillys_orespawn:crystal_planks"
+    },
+    {
+      "item": "xillys_orespawn:crystal_planks"
+    }
+  ],
+  "result": {
+    "item": "xillys_orespawn:crystal_workbench",
+    "count": 1
+  }
+}

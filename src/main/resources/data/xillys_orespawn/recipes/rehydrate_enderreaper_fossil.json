@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "xillys_orespawn:fossil_enderreaper"
+    }
+  ],
+  "result": {
+    "item": "xillys_orespawn:ender_reaper",
+    "count": 1
+  }
+}

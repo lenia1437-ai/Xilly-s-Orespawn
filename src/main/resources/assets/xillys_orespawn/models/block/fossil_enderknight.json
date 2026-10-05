@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xillys_orespawn:blocks/oreenderknight",
+    "up": "xillys_orespawn:blocks/oreenderknight",
+    "north": "xillys_orespawn:blocks/oreenderknight",
+    "east": "xillys_orespawn:blocks/oreenderknight",
+    "south": "xillys_orespawn:blocks/oreenderknight",
+    "west": "xillys_orespawn:blocks/oreenderknight",
+    "particle": "xillys_orespawn:blocks/oreenderknight"
+  }
+}

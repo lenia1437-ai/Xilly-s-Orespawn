@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xillys_orespawn:blocks/oremooshroom",
+    "up": "xillys_orespawn:blocks/oremooshroom",
+    "north": "xillys_orespawn:blocks/oremooshroom",
+    "east": "xillys_orespawn:blocks/oremooshroom",
+    "south": "xillys_orespawn:blocks/oremooshroom",
+    "west": "xillys_orespawn:blocks/oremooshroom",
+    "particle": "xillys_orespawn:blocks/oremooshroom"
+  }
+}

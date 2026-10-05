@@ -1,0 +1,14 @@
+{
+  "type":"minecraft:chest",
+  "pools":[{
+    "rolls":{"min":1,"max":5},
+    "entries":[
+      {"type":"minecraft:item","name":"minecraft:honey_bottle","weight":15,"functions":[{"function":"minecraft:set_count","count":{"min":2,"max":8}}]},
+      {"type":"minecraft:item","name":"minecraft:gold_ingot","weight":15,"functions":[{"function":"minecraft:set_count","count":{"min":4,"max":8}}]},
+      {"type":"minecraft:item","name":"minecraft:blaze_rod","weight":15,"functions":[{"function":"minecraft:set_count","count":{"min":2,"max":8}}]},
+      {"type":"minecraft:item","name":"xillys_orespawn:fairy_sword","weight":10},
+      {"type":"minecraft:item","name":"xillys_orespawn:butter_candy","weight":15,"functions":[{"function":"minecraft:set_count","count":{"min":2,"max":8}}]},
+      {"type":"minecraft:item","name":"xillys_orespawn:bee_spawn_egg","weight":15,"functions":[{"function":"minecraft:set_count","count":{"min":2,"max":8}}]}
+    ]
+  }]
+}

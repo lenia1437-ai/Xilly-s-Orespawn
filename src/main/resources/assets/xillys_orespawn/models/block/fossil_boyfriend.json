@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xillys_orespawn:blocks/oreboyfriend",
+    "up": "xillys_orespawn:blocks/oreboyfriend",
+    "north": "xillys_orespawn:blocks/oreboyfriend",
+    "east": "xillys_orespawn:blocks/oreboyfriend",
+    "south": "xillys_orespawn:blocks/oreboyfriend",
+    "west": "xillys_orespawn:blocks/oreboyfriend",
+    "particle": "xillys_orespawn:blocks/oreboyfriend"
+  }
+}

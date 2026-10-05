@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01 ",
+    "34 ",
+    "  8"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:diamond"
+    },
+    "1": {
+      "item": "xillys_orespawn:ruby"
+    },
+    "3": {
+      "item": "xillys_orespawn:ruby"
+    },
+    "4": {
+      "item": "xillys_orespawn:ruby"
+    },
+    "8": {
+      "item": "xillys_orespawn:ruby"
+    }
+  },
+  "result": {
+    "item": "xillys_orespawn:thunder_staff",
+    "count": 1
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type":"minecraft:chest",
+  "pools":[{
+    "rolls":{"min":7,"max":13},
+    "entries":[
+      {"type":"minecraft:item","name":"minecraft:blaze_powder","weight":10,"functions":[{"function":"minecraft:set_count","count":{"min":2,"max":8}}]},
+      {"type":"minecraft:item","name":"minecraft:redstone","weight":15,"functions":[{"function":"minecraft:set_count","count":{"min":4,"max":8}}]},
+      {"type":"minecraft:item","name":"minecraft:quartz","weight":15,"functions":[{"function":"minecraft:set_count","count":{"min":2,"max":8}}]},
+      {"type":"minecraft:item","name":"minecraft:iron_ingot","weight":15,"functions":[{"function":"minecraft:set_count","count":{"min":2,"max":8}}]},
+      {"type":"minecraft:item","name":"xillys_orespawn:nightmare_sword","weight":20},
+      {"type":"minecraft:item","name":"xillys_orespawn:poison_sword","weight":20},
+      {"type":"minecraft:item","name":"xillys_orespawn:kyuubi_spawn_egg","weight":15,"functions":[{"function":"minecraft:set_count","count":{"min":2,"max":8}}]}
+    ]
+  }]
+}

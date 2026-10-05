@@ -1,0 +1,92 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 0.2,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": ""
+    },
+    "smeltingInputStack": {
+      "value": "CUSTOM:Rockfish"
+    },
+    "smeltingReturnStack": {
+      "value": "Items.COOKED_FISH#0"
+    },
+    "blastingInputStack": {
+      "value": ""
+    },
+    "blastingReturnStack": {
+      "value": ""
+    },
+    "smokingInputStack": {
+      "value": ""
+    },
+    "smokingReturnStack": {
+      "value": ""
+    },
+    "stoneCuttingInputStack": {
+      "value": ""
+    },
+    "stoneCuttingReturnStack": {
+      "value": ""
+    },
+    "campfireCookingInputStack": {
+      "value": ""
+    },
+    "campfireCookingReturnStack": {
+      "value": ""
+    },
+    "smithingInputStack": {
+      "value": ""
+    },
+    "smithingInputAdditionStack": {
+      "value": ""
+    },
+    "smithingReturnStack": {
+      "value": ""
+    },
+    "brewingInputStack": {
+      "value": ""
+    },
+    "brewingIngredientStack": {
+      "value": ""
+    },
+    "brewingReturnStack": {
+      "value": ""
+    }
+  }
+}

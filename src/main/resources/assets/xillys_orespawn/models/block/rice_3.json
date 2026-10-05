@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "xillys_orespawn:blocks/rice_3",
+    "particle": "xillys_orespawn:blocks/rice_3"
+  }
+}

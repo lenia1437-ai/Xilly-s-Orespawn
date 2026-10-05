@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xillys_orespawn:blocks/orevelocityraptor",
+    "up": "xillys_orespawn:blocks/orevelocityraptor",
+    "north": "xillys_orespawn:blocks/orevelocityraptor",
+    "east": "xillys_orespawn:blocks/orevelocityraptor",
+    "south": "xillys_orespawn:blocks/orevelocityraptor",
+    "west": "xillys_orespawn:blocks/orevelocityraptor",
+    "particle": "xillys_orespawn:blocks/orevelocityraptor"
+  }
+}

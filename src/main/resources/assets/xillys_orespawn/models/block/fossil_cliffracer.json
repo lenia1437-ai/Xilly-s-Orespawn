@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xillys_orespawn:blocks/orecliffracer",
+    "up": "xillys_orespawn:blocks/orecliffracer",
+    "north": "xillys_orespawn:blocks/orecliffracer",
+    "east": "xillys_orespawn:blocks/orecliffracer",
+    "south": "xillys_orespawn:blocks/orecliffracer",
+    "west": "xillys_orespawn:blocks/orecliffracer",
+    "particle": "xillys_orespawn:blocks/orecliffracer"
+  }
+}

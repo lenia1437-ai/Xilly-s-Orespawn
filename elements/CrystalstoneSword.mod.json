@@ -1,0 +1,27 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "crystalstonesword",
+    "customModelName": "Normal",
+    "name": "Kyanite Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 3,
+    "efficiency": 6.0,
+    "attackSpeed": 1.6,
+    "enchantability": 45,
+    "damageVsEntity": 5.0,
+    "usageCount": 800,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "xillys_orespawn:fossil_thekingpart"
+    },
+    {
+      "item": "xillys_orespawn:fossil_thekingpart"
+    },
+    {
+      "item": "xillys_orespawn:fossil_thekingpart"
+    },
+    {
+      "item": "xillys_orespawn:fossil_thekingpart"
+    },
+    {
+      "item": "xillys_orespawn:fossil_thekingpart"
+    },
+    {
+      "item": "xillys_orespawn:fossil_thekingpart"
+    },
+    {
+      "item": "xillys_orespawn:fossil_thekingpart"
+    },
+    {
+      "item": "xillys_orespawn:fossil_thekingpart"
+    },
+    {
+      "item": "xillys_orespawn:fossil_thekingpart"
+    }
+  ],
+  "result": {
+    "item": "xillys_orespawn:fossil_theking",
+    "count": 1
+  }
+}

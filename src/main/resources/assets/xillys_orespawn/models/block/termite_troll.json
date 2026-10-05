@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xillys_orespawn:blocks/termitetroll",
+    "up": "xillys_orespawn:blocks/termitetroll",
+    "north": "xillys_orespawn:blocks/termitetroll",
+    "east": "xillys_orespawn:blocks/termitetroll",
+    "south": "xillys_orespawn:blocks/termitetroll",
+    "west": "xillys_orespawn:blocks/termitetroll",
+    "particle": "xillys_orespawn:blocks/termitetroll"
+  }
+}

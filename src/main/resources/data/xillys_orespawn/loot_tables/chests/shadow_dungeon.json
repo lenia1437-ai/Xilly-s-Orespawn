@@ -1,0 +1,19 @@
+{
+  "type":"minecraft:chest",
+  "pools":[{
+    "rolls":{"min":3,"max":9},
+    "entries":[
+      {"type":"minecraft:item","name":"minecraft:ender_pearl","weight":20,"functions":[{"function":"minecraft:set_count","count":{"min":2,"max":8}}]},
+      {"type":"minecraft:item","name":"minecraft:ghast_tear","weight":15,"functions":[{"function":"minecraft:set_count","count":{"min":2,"max":8}}]},
+      {"type":"minecraft:item","name":"minecraft:gunpowder","weight":15,"functions":[{"function":"minecraft:set_count","count":{"min":4,"max":8}}]},
+      {"type":"minecraft:item","name":"minecraft:emerald","weight":25,"functions":[{"function":"minecraft:set_count","count":{"min":6,"max":16}}]},
+      {"type":"minecraft:item","name":"xillys_orespawn:ruby","weight":15,"functions":[{"function":"minecraft:set_count","count":{"min":2,"max":8}}]},
+      {"type":"minecraft:item","name":"xillys_orespawn:nightmare_sword","weight":15},
+      {"type":"minecraft:item","name":"xillys_orespawn:poison_sword","weight":15},
+      {"type":"minecraft:item","name":"xillys_orespawn:big_hammer","weight":15},
+      {"type":"minecraft:item","name":"xillys_orespawn:ultimate_sword","weight":10},
+      {"type":"minecraft:item","name":"xillys_orespawn:ender_reaper_spawn_egg","weight":15},
+      {"type":"minecraft:item","name":"xillys_orespawn:pitch_black_spawn_egg","weight":15}
+    ]
+  }]
+}

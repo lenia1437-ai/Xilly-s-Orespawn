@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "xillys_orespawn:crystal_stone"
+    },
+    "1": {
+      "item": "xillys_orespawn:crystal_stone"
+    },
+    "2": {
+      "item": "xillys_orespawn:crystal_stone"
+    },
+    "3": {
+      "item": "xillys_orespawn:crystal_stone"
+    },
+    "5": {
+      "item": "xillys_orespawn:crystal_stone"
+    },
+    "6": {
+      "item": "xillys_orespawn:crystal_stone"
+    },
+    "7": {
+      "item": "xillys_orespawn:crystal_stone"
+    },
+    "8": {
+      "item": "xillys_orespawn:crystal_stone"
+    }
+  },
+  "result": {
+    "item": "xillys_orespawn:crystal_furnace",
+    "count": 1
+  }
+}

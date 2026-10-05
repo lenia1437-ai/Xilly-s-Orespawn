@@ -1,0 +1,27 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "crystalpinkhoe",
+    "customModelName": "Normal",
+    "name": "Pink Tourmaline Hoe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 3,
+    "efficiency": 10.0,
+    "attackSpeed": 1.0,
+    "enchantability": 65,
+    "damageVsEntity": 1.0,
+    "usageCount": 1100,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

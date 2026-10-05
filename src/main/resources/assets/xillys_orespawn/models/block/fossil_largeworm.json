@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xillys_orespawn:blocks/orelargeworm",
+    "up": "xillys_orespawn:blocks/orelargeworm",
+    "north": "xillys_orespawn:blocks/orelargeworm",
+    "east": "xillys_orespawn:blocks/orelargeworm",
+    "south": "xillys_orespawn:blocks/orelargeworm",
+    "west": "xillys_orespawn:blocks/orelargeworm",
+    "particle": "xillys_orespawn:blocks/orelargeworm"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "nest_type=0": { "model": "xillys_orespawn:block/ant_nest" },
+    "nest_type=1": { "model": "xillys_orespawn:block/ant_nest" },
+    "nest_type=2": { "model": "xillys_orespawn:block/ant_nest" },
+    "nest_type=3": { "model": "xillys_orespawn:block/ant_nest" },
+    "nest_type=4": { "model": "xillys_orespawn:block/ant_nest" }
+  }
+}

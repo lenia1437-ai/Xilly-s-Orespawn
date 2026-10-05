@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "xillys_orespawn:fossil_hercules"
+    }
+  ],
+  "result": {
+    "item": "xillys_orespawn:hercules_beetle",
+    "count": 1
+  }
+}

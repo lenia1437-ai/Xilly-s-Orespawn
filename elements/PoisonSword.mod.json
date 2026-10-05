@@ -1,0 +1,27 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "poisonsword",
+    "customModelName": "Normal",
+    "name": "Poison Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 3,
+    "efficiency": 10.0,
+    "attackSpeed": 1.6,
+    "enchantability": 75,
+    "damageVsEntity": 10.0,
+    "usageCount": 1300,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

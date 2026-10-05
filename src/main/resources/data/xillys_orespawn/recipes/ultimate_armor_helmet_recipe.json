@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "xillys_orespawn:titanium_ingot"
+    },
+    "1": {
+      "item": "minecraft:iron_ingot"
+    },
+    "2": {
+      "item": "xillys_orespawn:titanium_ingot"
+    },
+    "3": {
+      "item": "xillys_orespawn:uranium_ingot"
+    },
+    "5": {
+      "item": "xillys_orespawn:uranium_ingot"
+    }
+  },
+  "result": {
+    "item": "xillys_orespawn:ultimate_armor_helmet",
+    "count": 1
+  }
+}

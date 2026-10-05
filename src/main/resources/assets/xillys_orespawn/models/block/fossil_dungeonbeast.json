@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xillys_orespawn:blocks/oredungeonbeast",
+    "up": "xillys_orespawn:blocks/oredungeonbeast",
+    "north": "xillys_orespawn:blocks/oredungeonbeast",
+    "east": "xillys_orespawn:blocks/oredungeonbeast",
+    "south": "xillys_orespawn:blocks/oredungeonbeast",
+    "west": "xillys_orespawn:blocks/oredungeonbeast",
+    "particle": "xillys_orespawn:blocks/oredungeonbeast"
+  }
+}

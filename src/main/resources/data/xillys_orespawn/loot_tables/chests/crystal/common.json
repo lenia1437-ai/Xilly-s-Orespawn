@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": { "min": 1, "max": 3 },
+      "entries": [
+        { "type": "minecraft:item", "name": "xillys_orespawn:crystal_termite", "weight": 10,
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 1, "max": 5 } }] },
+        { "type": "minecraft:item", "name": "xillys_orespawn:crystal_crystal", "weight": 10,
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 1, "max": 10 } }] },
+        { "type": "minecraft:item", "name": "xillys_orespawn:crystal_coal", "weight": 10,
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 1, "max": 10 } }] },
+        { "type": "minecraft:item", "name": "xillys_orespawn:crystal_planks", "weight": 10,
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 2, "max": 10 } }] },
+        { "type": "minecraft:item", "name": "xillys_orespawn:tigerseye", "weight": 5,
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 1, "max": 5 } }] },
+        { "type": "minecraft:item", "name": "xillys_orespawn:crystalpink_ingot", "weight": 10,
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 1, "max": 5 } }] },
+        { "type": "minecraft:item", "name": "xillys_orespawn:tigerseye_ingot", "weight": 5,
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 1, "max": 5 } }] },
+        { "type": "minecraft:item", "name": "xillys_orespawn:crystal_apple", "weight": 10,
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 1, "max": 5 } }] },
+        { "type": "minecraft:item", "name": "xillys_orespawn:rice", "weight": 20,
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 1, "max": 10 } }] },
+        { "type": "minecraft:item", "name": "xillys_orespawn:quinoa", "weight": 20,
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 1, "max": 10 } }] },
+        { "type": "minecraft:item", "name": "minecraft:golden_apple", "weight": 2,
+          "functions": [{ "function": "minecraft:set_count", "count": { "min": 1, "max": 4 } }] }
+      ]
+    }
+  ]
+}

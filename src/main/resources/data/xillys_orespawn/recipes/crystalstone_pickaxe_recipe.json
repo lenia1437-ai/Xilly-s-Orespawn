@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "xillys_orespawn:crystal_stone"
+    },
+    "1": {
+      "item": "xillys_orespawn:crystal_stone"
+    },
+    "2": {
+      "item": "xillys_orespawn:crystal_stone"
+    },
+    "4": {
+      "item": "xillys_orespawn:crystal_sticks"
+    },
+    "7": {
+      "item": "xillys_orespawn:crystal_sticks"
+    }
+  },
+  "result": {
+    "item": "xillys_orespawn:crystalstone_pickaxe",
+    "count": 1
+  }
+}

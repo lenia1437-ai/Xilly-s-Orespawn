@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "xillys_orespawn:popcorn"
+    },
+    {
+      "item": "xillys_orespawn:salt"
+    },
+    {
+      "item": "xillys_orespawn:butter"
+    }
+  ],
+  "result": {
+    "item": "xillys_orespawn:popcorn_buttered_salted",
+    "count": 1
+  }
+}
